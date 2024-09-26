@@ -1,4 +1,3 @@
-- Kevin
 - Interested in ethical hacking and learning
 - Currently learning Python langguage and LUA
 - DM me in discord @kevinss_1
