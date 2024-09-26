@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Kevin
-- 👀 Interested in ethical hacking and learning
-- 🌱 Currently learning Python langguage and LUA
-- 💞️ N/A
-- 📫 DM me in discord @kevinss_1
-- ⚡ I love biking especialy riding MTB
+- Kevin
+- Interested in ethical hacking and learning
+- Currently learning Python langguage and LUA
+- DM me in discord @kevinss_1
+- I love biking especialy riding MTB
